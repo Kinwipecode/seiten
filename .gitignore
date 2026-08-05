@@ -3,3 +3,5 @@ dist/
 out/
 *.log
 .DS_Store
+# Backup-Ordner und deren Inhalte ignorieren
+*[Bb][Aa][Cc][Kk][Uu][Pp]*/
